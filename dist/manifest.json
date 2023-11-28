@@ -1,0 +1,36 @@
+{
+  "index.css": {
+    "file": "assets/index-15eafcc9.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/profile-023da4ca.png",
+      "assets/logo-d110d693.png",
+      "assets/pdf.worker.min-feabdf30.js",
+      "assets/house-91ebe065.mp4"
+    ],
+    "css": [
+      "assets/index-15eafcc9.css"
+    ],
+    "file": "assets/index-5605c994.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/pdfjs-dist/build/pdf.worker.min.js": {
+    "file": "assets/pdf.worker.min-feabdf30.js",
+    "src": "node_modules/pdfjs-dist/build/pdf.worker.min.js"
+  },
+  "src/assets/house.mp4": {
+    "file": "assets/house-91ebe065.mp4",
+    "src": "src/assets/house.mp4"
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-d110d693.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/assets/profile.png": {
+    "file": "assets/profile-023da4ca.png",
+    "src": "src/assets/profile.png"
+  }
+}
